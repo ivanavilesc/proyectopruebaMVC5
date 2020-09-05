@@ -1,0 +1,7 @@
+
+testAppRepo/bin/roslyn/VBCSCompiler.exe
+testAppRepo/bin/roslyn/System.Reflection.Metadata.dll
+testAppRepo/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+testAppRepo/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+testAppRepo/bin/roslyn/Microsoft.CodeAnalysis.dll
+testAppRepo/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
