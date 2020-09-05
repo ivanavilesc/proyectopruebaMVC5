@@ -5,3 +5,6 @@ testAppRepo/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
 testAppRepo/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
 testAppRepo/bin/roslyn/Microsoft.CodeAnalysis.dll
 testAppRepo/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+.vs/testAppRepo/v15/Server/sqlite3/storage.ide-shm
+.vs/testAppRepo/v15/Server/sqlite3/storage.ide-wal
+testAppRepo/obj/Debug/testAppRepo.csprojAssemblyReference.cache
