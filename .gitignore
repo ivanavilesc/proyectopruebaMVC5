@@ -18,3 +18,8 @@ testAppRepo/bin/testAppRepo.dll
 .vs/testAppRepo/v15/Server/sqlite3/storage.ide-wal
 .vs/testAppRepo/v15/Server/sqlite3/storage.ide-shm
 .vs/testAppRepo/v15/.suo
+.vs/testAppRepo/v15/.suo
+.vs/testAppRepo/v15/Server/sqlite3/storage.ide-shm
+.vs/testAppRepo/v15/Server/sqlite3/storage.ide-wal
+testAppRepo/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+testAppRepo/obj/Debug/testAppRepo.csprojAssemblyReference.cache
