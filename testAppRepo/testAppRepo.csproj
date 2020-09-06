@@ -94,6 +94,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CristobalController.cs" />
+    <Compile Include="Controllers\CristobalAdanController.cs" />
     <Compile Include="Controllers\FsaldanoController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -108,6 +109,14 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Fsaldano\Index.cshtml" />
     <Content Include="Views\Cristobal\Index.cshtml" />
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> Stashed changes
+	<Content Include="Views\CristobalAdan\Index.cshtml" />
+    <Content Include="Views\Victor\Index.cshtml" />
+>>>>>>> Stashed changes
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
