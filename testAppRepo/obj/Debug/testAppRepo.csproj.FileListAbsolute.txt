@@ -73,3 +73,9 @@ C:\githubrepo\proyectopruebaMVC5\testAppRepo\obj\Debug\testAppRepo.csproj.CoreCo
 C:\githubrepo\proyectopruebaMVC5\testAppRepo\obj\Debug\testAppRepo.csproj.CopyComplete
 C:\githubrepo\proyectopruebaMVC5\testAppRepo\obj\Debug\testAppRepo.dll
 C:\githubrepo\proyectopruebaMVC5\testAppRepo\obj\Debug\testAppRepo.pdb
+C:\githubrepo\proyectopruebaMVC5\testAppRepo\bin\EntityFramework.dll
+C:\githubrepo\proyectopruebaMVC5\testAppRepo\bin\EntityFramework.SqlServer.dll
+C:\githubrepo\proyectopruebaMVC5\testAppRepo\bin\Oracle.ManagedDataAccess.dll
+C:\githubrepo\proyectopruebaMVC5\testAppRepo\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\githubrepo\proyectopruebaMVC5\testAppRepo\bin\EntityFramework.xml
+C:\githubrepo\proyectopruebaMVC5\testAppRepo\bin\EntityFramework.SqlServer.xml
