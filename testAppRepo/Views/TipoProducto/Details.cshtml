@@ -1,0 +1,27 @@
+﻿@model testAppRepo.Models.TIPOPRODUCTO
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Principal.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>TIPOPRODUCTO</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DESCTIPOPRODUCTO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DESCTIPOPRODUCTO)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IDTIPOPRODUCTO }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

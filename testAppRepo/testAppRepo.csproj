@@ -114,6 +114,14 @@
       <DependentUpon>Restaurant.edmx</DependentUpon>
       <LastGenOutput>Restaurant1.cs</LastGenOutput>
     </Content>
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -147,7 +155,6 @@
     <Compile Include="Models\COMPRA.cs">
       <DependentUpon>Restaurant.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\CrudContext.cs" />
     <Compile Include="Models\DETALLEORDEN.cs">
       <DependentUpon>Restaurant.tt</DependentUpon>
     </Compile>
@@ -291,7 +298,12 @@
     <Content Include="Views\CristobalAdan\Index.cshtml" />
     <Content Include="Views\Learanda\Index.cshtml" />
     <Content Include="Views\Ivan\Index.cshtml" />
+    <Content Include="Views\TipoProducto\Create.cshtml" />
+    <Content Include="Views\TipoProducto\Delete.cshtml" />
+    <Content Include="Views\TipoProducto\Details.cshtml" />
+    <Content Include="Views\TipoProducto\Edit.cshtml" />
     <Content Include="Views\TipoProducto\Index.cshtml" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
